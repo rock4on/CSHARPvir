@@ -1,0 +1,9 @@
+C:\Users\andre\source\repos\projEmil\projEmil\bin\Debug\projEmil.exe.config
+C:\Users\andre\source\repos\projEmil\projEmil\bin\Debug\projEmil.exe
+C:\Users\andre\source\repos\projEmil\projEmil\bin\Debug\projEmil.pdb
+C:\Users\andre\source\repos\projEmil\projEmil\obj\Debug\projEmil.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\projEmil\projEmil\obj\Debug\projEmil.Form1.resources
+C:\Users\andre\source\repos\projEmil\projEmil\obj\Debug\projEmil.Properties.Resources.resources
+C:\Users\andre\source\repos\projEmil\projEmil\obj\Debug\projEmil.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\projEmil\projEmil\obj\Debug\projEmil.exe
+C:\Users\andre\source\repos\projEmil\projEmil\obj\Debug\projEmil.pdb
