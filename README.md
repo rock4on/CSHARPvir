@@ -4,7 +4,8 @@ A simple C# framework that has all you need to create a trojan virus.
 
 # Content:
 
-MailSender.cs-singleton class used for sending mails with files
+-MailSender.cs[singleton class used for sending mails with files]
+
 -pathfinder.cs[class used to navigate paths]
 
 -fprocess.cs[abstract class,parent of TextScan si PhotoScan]
